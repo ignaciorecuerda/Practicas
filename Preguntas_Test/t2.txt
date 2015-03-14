@@ -1,0 +1,13 @@
+¿Cuál de las siguientes respuestas NO está relacionada con la disponibilidad del servidor?:
+a) Disponibilidad de Hardware
+b) Disponibilidad de servidor.
+c) Disponibilidad de red.
+d) Disponibilidad de aplicación.
+respuesta correcta: A
+
+¿Qué es la escalabilidad?
+a) Cuando dos máquinas tienen la posibilidad de trabajar de manera conjunta.
+b) Es alcanzar el objetivo esperado con el menor gasto de recursos.
+c) Es alcanzar el objetivo esperado con el menor gasto de tiempo
+d) Es la capacidad que tiene un sistema de manejar la carga y de adaptarse al nuevo nivel de carga
+respuesta correcta: D

@@ -1,11 +1,11 @@
-Cual de las siguientes afirmaciones sobre una granja web NO es correcta:
+¿Cuál de las siguientes afirmaciones sobre una granja web NO es correcta?:
 a) Suelen albergar muchos sitios web.
 b) Ofrecen bastantes funcionalidades.
 c) No son flexibles.
 d) Son sistemas muy complejos. 
 respuesta correcta: C
 
-Cual de las siguientes respuestas NO es un problema de disponibilidad de servidores:
+¿Cuál de las siguientes respuestas NO es un problema de disponibilidad de servidores?:
 a) Actualizaciones del SO.
 b) Servidor sin posibilidad de escalabilidad.
 c) Rotura de un componente hardware.
