@@ -1,0 +1,14 @@
+SWAP tema 4:
+¿Qué funciones realiza el balanceador de carga?
+a) Ninguna respuesta es correcta.
+b) Comprueba la disponibilidad de los servidores.
+c) Distribuir el trabajo entre varios servidores.
+d) B y C son correctas
+respuesta correcta: D
+
+Ventajas que ofrece un balanceador de carga:
+a) Mejora la escalabilidad y disponibilidad.
+b) Facilita el mantenimiento.
+c) Mejora la seguridad.
+d) Todas son correctas
+respuesta correcta: D

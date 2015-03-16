@@ -1,13 +1,13 @@
+¿cuál de las siguientes configuraciones de DMZ puede tener un problema de cuello de botella?
+a) DMZ simple.
+b) DMZ tradicional.
+c) DMZ doble.
+d) A y B son correctas
+respuesta correcta: D
 
-a) 
-b) 
-c) 
-d) 
-respuesta correcta: 
-
-
-a) 
-b) 
-c) 
-d)  
-respuesta correcta: 
+¿qué se puede usar para el filtrado y bloqueo de paquetes de internet a una granja web?
+a) Cortafuegos.
+b) Routers.
+c) Concentradores.
+d) Todas son correctas
+respuesta correcta: D
