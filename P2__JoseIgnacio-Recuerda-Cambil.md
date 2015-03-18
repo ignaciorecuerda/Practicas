@@ -25,4 +25,4 @@ Problema solucionado: no nos dejaba hacer el rsync como root y hemos tenido que 
 ##Para realizar el punto 5 de la práctica (Programas tareas con crontab)
 1º Nos hemos identificado como root “sudo su”
 2º hemos editado el archivo /etc/crontab y hemos añadido  la última linea de la siguiente imagen (indica que se ejecutara cada minuto).
-[](/crontab.png)
+![imagen](https://github.com/ignaciorecuerda/Practicas/blob/master/crontab.png)
