@@ -18,7 +18,7 @@ nos dice que se ha instalado y nos pide la contraseña que pusimos en el “sudo
 3ºrsync -avz -e ssh root@10.211.55.31:/var/www/ /var/www/
 
 Ponemos captura de pantalla de los comandos ejecutados
-[](sshsinpass.png)
+![imagen](https://github.com/ignaciorecuerda/Practicas/blob/master/sshsinpass.png)
 
 Problema solucionado: no nos dejaba hacer el rsync como root y hemos tenido que hacerlo con nuestro usuario (apozo). Y después de hacer “ssh-copy-id -i .ssh/id_dsa.pub apozo@10.211.55.31” hemos tenido que conectarnos a la máquina con “ssh apozo@10.211.55.31” nos pide la contraseña, la introducimos, nos salimos con “exit” y justo después ejecutamos el comando “ssh add”. gracias a esto conseguimos poder conectarnos a la máquina “principal” sin tener que introducir la contraseña. 
 
