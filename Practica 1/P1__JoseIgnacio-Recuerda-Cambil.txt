@@ -1,0 +1,14 @@
+Comando: apache2-v
+Server version: Apache/2.2.22 (Ubuntu)
+Server built:   Jul 22 2014 14:35:25
+
+
+Comando: ps aux | grep apache
+root      1137  0.0  0.5 193532  8524 ?        Ss   17:30   0:00 /usr/sbin/apache2 -k start
+www-data  1161  0.0  0.3 193596  5820 ?        S    17:30   0:00 /usr/sbin/apache2 -k start
+www-data  1166  0.0  0.3 193556  5168 ?        S    17:30   0:00 /usr/sbin/apache2 -k start
+www-data  1167  0.0  0.3 193612  5668 ?        S    17:30   0:00 /usr/sbin/apache2 -k start
+www-data  1174  0.0  0.3 193556  5168 ?        S    17:30   0:00 /usr/sbin/apache2 -k start
+www-data  1175  0.0  0.3 193556  5168 ?        S    17:30   0:00 /usr/sbin/apache2 -k start
+nacho     2736  0.0  0.0  14816  1392 ?        Ss   19:03   0:00 bash -c ps aux | grep apache
+nacho     2738  0.0  0.0  11924   912 ?        S    19:03   0:00 grep apache
