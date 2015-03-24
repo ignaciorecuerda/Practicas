@@ -15,7 +15,7 @@ Como no vamos a tener sesiones de usuario (por ahora) hemos puesto la opción ke
 Tras poner la configuración escogida por nosotros, esta ha quedado de la siguiente forma:
 ![imagen](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica%203/balanceador_nginx.png)
 
-Sabemos que al no ser un problema real con aplicaciones y demas únicamente se apreciarían los weight, que en nuestro caso están por defecto (weight=1)
+Sabemos que al no ser un problema real con aplicaciones y demás únicamente se apreciarían los weight, que en nuestro caso están por defecto (weight=1)
 
 Adjuntamos una captura del balanceo de carga
 ![imagen muestra balanceo](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica%203/balanceador_funcionando.png)
