@@ -1,0 +1,111 @@
+Lifting the server siege...      done.
+
+Transactions:		        2949 hits
+Availability:		      100.00 %
+Elapsed time:		       14.89 secs
+Data transferred:	        9.24 MB
+Response time:		        0.00 secs
+Transaction rate:	      198.05 trans/sec
+Throughput:		        0.62 MB/sec
+Concurrency:		        0.68
+Successful transactions:        2949
+Failed transactions:	           0
+Longest transaction:	        1.00
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2848 hits
+Availability:		      100.00 %
+Elapsed time:		       14.73 secs
+Data transferred:	        8.92 MB
+Response time:		        0.00 secs
+Transaction rate:	      193.35 trans/sec
+Throughput:		        0.61 MB/sec
+Concurrency:		        0.56
+Successful transactions:        2848
+Failed transactions:	           0
+Longest transaction:	        0.01
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2911 hits
+Availability:		      100.00 %
+Elapsed time:		       14.84 secs
+Data transferred:	        9.12 MB
+Response time:		        0.00 secs
+Transaction rate:	      196.16 trans/sec
+Throughput:		        0.61 MB/sec
+Concurrency:		        0.57
+Successful transactions:        2911
+Failed transactions:	           0
+Longest transaction:	        0.02
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2845 hits
+Availability:		      100.00 %
+Elapsed time:		       14.68 secs
+Data transferred:	        8.91 MB
+Response time:		        0.00 secs
+Transaction rate:	      193.80 trans/sec
+Throughput:		        0.61 MB/sec
+Concurrency:		        0.52
+Successful transactions:        2845
+Failed transactions:	           0
+Longest transaction:	        0.01
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2847 hits
+Availability:		      100.00 %
+Elapsed time:		       14.30 secs
+Data transferred:	        8.92 MB
+Response time:		        0.00 secs
+Transaction rate:	      199.09 trans/sec
+Throughput:		        0.62 MB/sec
+Concurrency:		        0.51
+Successful transactions:        2847
+Failed transactions:	           0
+Longest transaction:	        0.01
+Shortest transaction:	        0.00
+

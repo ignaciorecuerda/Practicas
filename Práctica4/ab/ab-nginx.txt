@@ -1,0 +1,332 @@
+Last login: Tue Apr 14 17:48:49 on ttys000
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        nginx/1.6.2
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11591 bytes
+
+Concurrency Level:      100
+Time taken for tests:   23.075 seconds
+Complete requests:      100000
+Failed requests:        50000
+   (Connect: 0, Receive: 0, Length: 50000, Exceptions: 0)
+Total transferred:      1185300000 bytes
+HTML transferred:       1159000000 bytes
+Requests per second:    4333.66 [#/sec] (mean)
+Time per request:       23.075 [ms] (mean)
+Time per request:       0.231 [ms] (mean, across all concurrent requests)
+Transfer rate:          50162.95 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   6.5      0    1026
+Processing:     2   23   3.9     23      82
+Waiting:        2   23   3.9     23      82
+Total:          6   23   7.4     23    1037
+
+Percentage of the requests served within a certain time (ms)
+  50%     23
+  66%     23
+  75%     24
+  80%     24
+  90%     26
+  95%     27
+  98%     29
+  99%     30
+ 100%   1037 (longest request)
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        nginx/1.6.2
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11591 bytes
+
+Concurrency Level:      100
+Time taken for tests:   21.812 seconds
+Complete requests:      100000
+Failed requests:        50000
+   (Connect: 0, Receive: 0, Length: 50000, Exceptions: 0)
+Total transferred:      1185300000 bytes
+HTML transferred:       1159000000 bytes
+Requests per second:    4584.56 [#/sec] (mean)
+Time per request:       21.812 [ms] (mean)
+Time per request:       0.218 [ms] (mean, across all concurrent requests)
+Transfer rate:          53067.17 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0      61
+Processing:     1   22   7.9     23    1007
+Waiting:        1   22   7.9     22    1007
+Total:          6   22   7.9     23    1007
+
+Percentage of the requests served within a certain time (ms)
+  50%     23
+  66%     23
+  75%     23
+  80%     23
+  90%     25
+  95%     26
+  98%     28
+  99%     29
+ 100%   1007 (longest request)
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        nginx/1.6.2
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11591 bytes
+
+Concurrency Level:      100
+Time taken for tests:   23.805 seconds
+Complete requests:      100000
+Failed requests:        50000
+   (Connect: 0, Receive: 0, Length: 50000, Exceptions: 0)
+Total transferred:      1185300000 bytes
+HTML transferred:       1159000000 bytes
+Requests per second:    4200.72 [#/sec] (mean)
+Time per request:       23.805 [ms] (mean)
+Time per request:       0.238 [ms] (mean, across all concurrent requests)
+Transfer rate:          48624.10 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0      10
+Processing:     3   24   3.4     23      86
+Waiting:        3   24   3.4     23      86
+Total:          7   24   3.4     23      86
+
+Percentage of the requests served within a certain time (ms)
+  50%     23
+  66%     24
+  75%     24
+  80%     25
+  90%     27
+  95%     28
+  98%     30
+  99%     32
+ 100%     86 (longest request)
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        nginx/1.6.2
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11589 bytes
+
+Concurrency Level:      100
+Time taken for tests:   22.247 seconds
+Complete requests:      100000
+Failed requests:        50000
+   (Connect: 0, Receive: 0, Length: 50000, Exceptions: 0)
+Total transferred:      1185300000 bytes
+HTML transferred:       1159000000 bytes
+Requests per second:    4494.92 [#/sec] (mean)
+Time per request:       22.247 [ms] (mean)
+Time per request:       0.222 [ms] (mean, across all concurrent requests)
+Transfer rate:          52029.59 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   4.6      0    1021
+Processing:     2   22   5.2     23     328
+Waiting:        2   22   5.1     22     328
+Total:          3   22   6.8     23    1043
+
+Percentage of the requests served within a certain time (ms)
+  50%     23
+  66%     23
+  75%     23
+  80%     23
+  90%     24
+  95%     26
+  98%     28
+  99%     29
+ 100%   1043 (longest request)
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ 
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        nginx/1.6.2
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11591 bytes
+
+Concurrency Level:      100
+Time taken for tests:   23.256 seconds
+Complete requests:      100000
+Failed requests:        50000
+   (Connect: 0, Receive: 0, Length: 50000, Exceptions: 0)
+Total transferred:      1185300000 bytes
+HTML transferred:       1159000000 bytes
+Requests per second:    4299.89 [#/sec] (mean)
+Time per request:       23.256 [ms] (mean)
+Time per request:       0.233 [ms] (mean, across all concurrent requests)
+Transfer rate:          49772.07 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   4.6      0    1024
+Processing:     2   23   3.2     23      82
+Waiting:        2   23   3.2     23      82
+Total:          5   23   5.5     23    1042
+
+Percentage of the requests served within a certain time (ms)
+  50%     23
+  66%     23
+  75%     23
+  80%     24
+  90%     25
+  95%     27
+  98%     29
+  99%     31
+ 100%   1042 (longest request)
+cvi096063:~ Apozo$ 

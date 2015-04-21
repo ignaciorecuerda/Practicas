@@ -1,0 +1,361 @@
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        Apache/2.4.7
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11589 bytes
+
+Concurrency Level:      100
+Time taken for tests:   19.490 seconds
+Complete requests:      100000
+Failed requests:        50531
+   (Connect: 0, Receive: 0, Length: 50531, Exceptions: 0)
+Total transferred:      1186301062 bytes
+HTML transferred:       1159001062 bytes
+Requests per second:    5130.95 [#/sec] (mean)
+Time per request:       19.490 [ms] (mean)
+Time per request:       0.195 [ms] (mean, across all concurrent requests)
+Transfer rate:          59441.92 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    1  12.2      0    1191
+Processing:     3   19  16.8     19    1017
+Waiting:        3   17  16.5     17    1014
+Total:          4   19  20.7     19    1215
+
+Percentage of the requests served within a certain time (ms)
+  50%     19
+  66%     21
+  75%     22
+  80%     22
+  90%     24
+  95%     26
+  98%     29
+  99%     33
+ 100%   1215 (longest request)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        Apache/2.4.7
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11591 bytes
+
+Concurrency Level:      100
+Time taken for tests:   22.684 seconds
+Complete requests:      100000
+Failed requests:        50751
+   (Connect: 0, Receive: 0, Length: 50751, Exceptions: 0)
+Total transferred:      1186298498 bytes
+HTML transferred:       1158998498 bytes
+Requests per second:    4408.36 [#/sec] (mean)
+Time per request:       22.684 [ms] (mean)
+Time per request:       0.227 [ms] (mean, across all concurrent requests)
+Transfer rate:          51070.60 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  13.8      0    1208
+Processing:     4   22  17.2     22    1018
+Waiting:        3   20  17.1     19    1013
+Total:          5   23  22.1     22    1231
+
+Percentage of the requests served within a certain time (ms)
+  50%     22
+  66%     23
+  75%     24
+  80%     25
+  90%     27
+  95%     29
+  98%     32
+  99%     35
+ 100%   1231 (longest request)
+cvi096063:~ Apozo$ 
+
+
+
+
+
+
+
+
+
+
+
+
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        Apache/2.4.7
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11589 bytes
+
+Concurrency Level:      100
+Time taken for tests:   22.975 seconds
+Complete requests:      100000
+Failed requests:        50243
+   (Connect: 0, Receive: 0, Length: 50243, Exceptions: 0)
+Total transferred:      1186300486 bytes
+HTML transferred:       1159000486 bytes
+Requests per second:    4352.58 [#/sec] (mean)
+Time per request:       22.975 [ms] (mean)
+Time per request:       0.230 [ms] (mean, across all concurrent requests)
+Transfer rate:          50424.45 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   5.8      0    1065
+Processing:     5   23   8.7     22    1009
+Waiting:        4   20   8.5     19    1009
+Total:          7   23  10.5     22    1091
+
+Percentage of the requests served within a certain time (ms)
+  50%     22
+  66%     24
+  75%     25
+  80%     25
+  90%     27
+  95%     29
+  98%     32
+  99%     34
+ 100%   1091 (longest request)
+cvi096063:~ Apozo$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        Apache/2.4.7
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11589 bytes
+
+Concurrency Level:      100
+Time taken for tests:   22.671 seconds
+Complete requests:      100000
+Failed requests:        49389
+   (Connect: 0, Receive: 0, Length: 49389, Exceptions: 0)
+Total transferred:      1186298778 bytes
+HTML transferred:       1158998778 bytes
+Requests per second:    4411.01 [#/sec] (mean)
+Time per request:       22.671 [ms] (mean)
+Time per request:       0.227 [ms] (mean, across all concurrent requests)
+Transfer rate:          51101.29 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0      56
+Processing:     4   22  11.8     22    1013
+Waiting:        3   20  11.5     19    1009
+Total:          4   23  11.8     22    1013
+
+Percentage of the requests served within a certain time (ms)
+  50%     22
+  66%     23
+  75%     24
+  80%     25
+  90%     27
+  95%     30
+  98%     32
+  99%     35
+ 100%   1013 (longest request)
+cvi096063:~ Apozo$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cvi096063:~ Apozo$ ab -n 100000 -c 100 http://10.211.55.33/index.html
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.211.55.33 (be patient)
+Completed 10000 requests
+Completed 20000 requests
+Completed 30000 requests
+Completed 40000 requests
+Completed 50000 requests
+Completed 60000 requests
+Completed 70000 requests
+Completed 80000 requests
+Completed 90000 requests
+Completed 100000 requests
+Finished 100000 requests
+
+
+Server Software:        Apache/2.4.7
+Server Hostname:        10.211.55.33
+Server Port:            80
+
+Document Path:          /index.html
+Document Length:        11589 bytes
+
+Concurrency Level:      100
+Time taken for tests:   22.716 seconds
+Complete requests:      100000
+Failed requests:        49529
+   (Connect: 0, Receive: 0, Length: 49529, Exceptions: 0)
+Total transferred:      1186299058 bytes
+HTML transferred:       1158999058 bytes
+Requests per second:    4402.10 [#/sec] (mean)
+Time per request:       22.716 [ms] (mean)
+Time per request:       0.227 [ms] (mean, across all concurrent requests)
+Transfer rate:          50998.13 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   5.8      0    1063
+Processing:     5   22   4.3     22      86
+Waiting:        4   20   4.0     19      82
+Total:          7   23   7.2     22    1094
+
+Percentage of the requests served within a certain time (ms)
+  50%     22
+  66%     23
+  75%     24
+  80%     25
+  90%     27
+  95%     29
+  98%     31
+  99%     33
+ 100%   1094 (longest request)
+cvi096063:~ Apozo$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

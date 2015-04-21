@@ -1,0 +1,119 @@
+DATOS A RECOGER:
+Availability
+Elapsed time
+Throughput
+Failed transacciones ->ojo siempre 0, eso es xke no le pesa las peticiones, si fuese el php ya la cosa sería distinta
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2919 hits
+Availability:		      100.00 %
+Elapsed time:		       14.62 secs
+Data transferred:	        9.14 MB
+Response time:		        0.00 secs
+Transaction rate:	      199.66 trans/sec
+Throughput:		        0.63 MB/sec
+Concurrency:		        0.61
+Successful transactions:        2919
+Failed transactions:	           0
+Longest transaction:	        1.01
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2896 hits
+Availability:		      100.00 %
+Elapsed time:		       14.65 secs
+Data transferred:	        9.07 MB
+Response time:		        0.00 secs
+Transaction rate:	      197.68 trans/sec
+Throughput:		        0.62 MB/sec
+Concurrency:		        0.55
+Successful transactions:        2896
+Failed transactions:	           0
+Longest transaction:	        1.02
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2912 hits
+Availability:		      100.00 %
+Elapsed time:		       14.48 secs
+Data transferred:	        9.12 MB
+Response time:		        0.00 secs
+Transaction rate:	      201.10 trans/sec
+Throughput:		        0.63 MB/sec
+Concurrency:		        0.60
+Successful transactions:        2912
+Failed transactions:	           0
+Longest transaction:	        1.01
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2821 hits
+Availability:		      100.00 %
+Elapsed time:		       14.25 secs
+Data transferred:	        8.84 MB
+Response time:		        0.00 secs
+Transaction rate:	      197.96 trans/sec
+Throughput:		        0.62 MB/sec
+Concurrency:		        0.49
+Successful transactions:        2821
+Failed transactions:	           0
+Longest transaction:	        0.02
+Shortest transaction:	        0.00
+
+
+
+
+
+
+
+
+
+Lifting the server siege...      done.
+
+Transactions:		        2905 hits
+Availability:		      100.00 %
+Elapsed time:		       14.84 secs
+Data transferred:	        9.10 MB
+Response time:		        0.00 secs
+Transaction rate:	      195.75 trans/sec
+Throughput:		        0.61 MB/sec
+Concurrency:		        0.44
+Successful transactions:        2905
+Failed transactions:	           0
+Longest transaction:	        0.02
+Shortest transaction:	        0.00
+
+
+
+
