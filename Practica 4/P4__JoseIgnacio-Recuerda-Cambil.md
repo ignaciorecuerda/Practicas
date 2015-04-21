@@ -17,7 +17,7 @@ Las pruebas las hemos hecho ejecutando el siguiente comando:
  ab -n 100000 -c 100 http://10.211.55.33 
 
 #### TIME TAKEN FOR TESTS (seg)
-![imagen TIME TAKEN FOR TESTS (seg)](direccion githubhttps://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-TIME%20TAKEN%20FOR%20TESTS%20(seg).png)
+![imagen TIME TAKEN FOR TESTS (seg)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-TIME%20TAKEN%20FOR%20TESTS%20(seg).png)
 
 #### TIME PER REQUEST (ms)
 ![imagen TIME PER REQUEST (ms)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-TIME%20PER%20REQUEST%20(ms).png)
