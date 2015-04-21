@@ -17,16 +17,16 @@ Las pruebas las hemos hecho ejecutando el siguiente comando:
  ab -n 100000 -c 100 http://10.211.55.33 
 
 #### TIME TAKEN FOR TESTS (seg)
-![imagen TIME TAKEN FOR TESTS (seg)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-TIME%20TAKEN%20FOR%20TESTS%20(seg).png)
+![imagen TIME TAKEN FOR TESTS (seg)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica%204/ab/imagenes%20graficas/ab-TIME%20TAKEN%20FOR%20TESTS%20(seg).png)
 
 #### TIME PER REQUEST (ms)
-![imagen TIME PER REQUEST (ms)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-TIME%20PER%20REQUEST%20(ms).png)
+![imagen TIME PER REQUEST (ms)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica%204/ab/imagenes%20graficas/ab-TIME%20PER%20REQUEST%20(ms).png)
 
 #### REQUEST PER SECOND (seg)
-![imagen REQUEST PER SECOND (seg)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-REQUEST%20PER%20SECOND%20(seg).png)
+![imagen REQUEST PER SECOND (seg)](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica%204/ab/imagenes%20graficas/ab-REQUEST%20PER%20SECOND%20(seg).png)
 
 #### FAILED REQUESTS
-![imagen FAILED REQUESTS](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica4/ab/imagenes%20graficas/ab-FAILED%20REQUESTS.png) 
+![imagen FAILED REQUESTS](https://github.com/ignaciorecuerda/Practicas/blob/master/Practica%204/ab/imagenes%20graficas/ab-FAILED%20REQUESTS.png) 
 
 
 
