@@ -3,7 +3,7 @@
 ##Creación de la base de datos
 Para ello hemos seguido tal cual los comandos que se indican en el guión de prácticas.
 
-##Replica de una Base de Datos con MySQL con mysqldump
+##Réplica de una Base de Datos con MySQL con mysqldump
 Para hacer la replica de la BD hemos usado los siguientes comandos:
 1.- mysql -u root –p (entramos en mysql)
 2.- FLUSH TABLES WITH READ LOCK; (para que nadie pueda modificar la BD)
